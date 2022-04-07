@@ -1,0 +1,3 @@
+v1.1.0:
+-Added first dialog interaction
+-Removed the max level requirement for officers to be candidates (temporary debug)

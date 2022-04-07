@@ -1,0 +1,93 @@
+{
+	"VNSector":{
+		"candidateIntelTimidTitle":"A Presence In The Laboratory",
+		"candidateIntelTimidBody":"While visiting the laboratory and making note of the large strides made by your bioresearch team on the hazardous weapons project, you can't help but notice that one of your senior officers, %s, is also present. Curious and curiouser!",
+		
+		"candidateIntelSteadyTitle":"A Sudden Call",
+		"candidateIntelSteadyBody":"One of your senior officers, %s, has an urgent matter to discuss; they refuse to elaborate over this unsecured channel and insist on meeting in person aboard their ship.",
+		
+		"candidateIntelAggressiveTitle":"A Noise In The Corridor",
+		"candidateIntelAggressiveBody":"",
+		
+		"candidateIntelFooter":"What should you do?",
+		"candidateIntelFooterHighlight":"What should you do?",
+		
+		"candidateButtonAccept":"Approach",
+		"candidateButtonDismiss":"Ignore",
+		
+		"candidateConfirmAccept":"Are you sure?",
+		"candidateConfirmDismiss":"Are you sure?",
+		
+		"candidateIntelAccepted":"You had an encounter with one of your officers, %s. Perhaps more opportunities to get closer may arise in the future...",
+		"candidateIntelDismissed":"You decided to leave them be and left shortly after.",
+		
+		
+		
+		"dialogGetAllChapters":"Timid,a-Steady,a-Aggressive",
+		"dialogContinue":"(Continue)",
+		"dialogExit":"(Exit)",
+		"dialogConfirm":"Are you sure?",
+		"dialogYes":"Yes",
+		"dialogNo":"No",
+		
+		
+		# this is a debug interaction
+		"candidateDialogTimida0a1":"here we go baby, debug string",
+		"candidateDialogTimida0a1r":"ok lol",
+		"candidateDialogTimida0a2":"lets have another",
+		"candidateDialogTimida0a2r":"ok lol 2",
+		"candidateDialogTimida0a3":"+DONT STOP IM SO CLOSE",
+		
+		"candidateDialogTimida0a4":"a suspicious extra?",
+		"candidateDialogTimida0a4r":"ok lol 4",
+		"candidateDialogTimida0a5":"=ok lets go home",
+		
+		"candidateDialogTimida0a3s1":"1oh yea keep going",
+		"candidateDialogTimida1a1":"=i have arrived",
+		
+		"candidateDialogTimida0a3s2":"2im tired of this",
+		"candidateDialogTimida2a1":"+lets just talk",
+		"candidateDialogTimida2a1s1":"2-omegalul",
+		"candidateDialogTimida2a2":"-0-5-hello everynyan-how are you fine thank you",
+		"candidateDialogTimida2a2r":"oh my gah",
+		
+		"candidateDialogTimida0a3s3":"3-how do i do thing",
+		"candidateDialogTimida3a1":"-0-5-i do not like thing",
+		"candidateDialogTimida3a1r":":(",
+		
+		
+		
+		"candidateDialogSteadya0a1":"You dock at ${officer}'s ship. After some formalities in the shuttle hangar, you are escorted to {officerHis} ready room. The spacers in the corridors part to make way for you; they rarely receive a visitor of your caliber. You reach a synthwood door, its grain meticulously patterned to give the illusion of luxury.",
+		"candidateDialogSteadya0a1r":"(Continue)",
+		"candidateDialogSteadya0a2":"+As you enter the room, you are beset with the odor of cheap coffee. By the strength of the smell, you can tell more than one pot has been brewed today, and as it's only 1200, there will likely be several more before the day is done. More synthwood greets you in the form of a cream-colored desk. Ironically, there is no creamer anywhere in sight. Overlapping circular stains that look like dried Jangalan soil form a matrix. The freshest one sits below an imposing Colossus-class skipper's mug, which appears to be filled with a liquid more resembling a pool of organics on a xenoplanet than a beverage. One hand raises in a lax “hello”. The other drums its fingers idly against the desk.",
+		"candidateDialogSteadya0a2s1":"1Insist on formality",
+		"candidateDialogSteadya0a2s2":"2Wave back",
+		"candidateDialogSteadya0a2s3":"3-Look around",
+		
+		"candidateDialogSteadya1a1":"-0-3-${officerLast} blinks, then pushes out ${officerHis} chair and snaps to attention in a series of jagged motions. ${officerHis} chair is now visible; its surface is a circuitboard of tears, with plastuffing peeking through as if to caulk the rips. ${OfficerHis} hand trembles from a combination of sudden stress and one too many refills of that coffee cup. As you inspect the rest of the room for other signs of other behavior not up to code, ${officerLast}'s hand deviates from its salute to wipe away a bead of sweat from ${officerHis} forehead. ${OfficerHe} return it to its original position before ${officerHe} think you noticed it.",
+		"candidateDialogSteadya1a1r":"Ask why you were brought here",
+		"candidateDialogSteadya2a1":"-0-3-${officerFirst} puts a little more effort into ${officerHis} wave before putting ${officerHis} hand back on ${officerHis} mug and tilting it back for more than a sip, but less than a gulp. “${PlayerRank}, it's good to see you again. Seems like only yesterday you found me looking for work, and I've got to say: it's certainly work. Maybe a bit too much, but it's better than being surfaceside, isn't that right?” ${officerFirst} upturns one side of ${officerHis} smile into a lopsided grin. “I'm no Luddic, and farm life just doesn't suit me. Too much vent-waste to deal with, and that's not even counting the fertilizer.”",
+		"candidateDialogSteadya2a1r":"Ask why you were brought here",
+		"candidateDialogSteadya3a1":"-0-3-${OfficerRank} ${officer} returns to nurse ${officerHis} viscous drink. On the wall behind the desk, you see several certs from Galatia Academy in seemingly disparate fields. Some of them involve a deprecated programming language, others are business-oriented, but most of them seem to concern sensors and transponders. It's hard to tell more from the dim lighting in the room. A grimy monitor is mounted on the left wall that displays sunset vistas on the beaches of Volturn. The right wall features a sliding door that leads to ${officerLast}'s private quarters. You look back at ${officerLast}, who in that short time has finished yet another mug of black coffee.",
+		"candidateDialogSteadya3a1r":"Ask why you were brought here",
+		
+		"candidateDialogSteadya0a3":"“Well, ${playerRank}, it's a bit of an issue. Nothing I can't sort out, if I weren't the issue itself.” You wait for an elaboration. ${officerLast} keeps you waiting for a while as ${officerHe} sloppily pours another mug of coffee. ${OfficerHis} hands shake as ${officerHe} does so, allowing you to get a good look at the droplets as they scatter across the desk. They appear grainy and thick. After a minute of this, ${officerLast} locks eyes with you in an intense glare.",
+		"candidateDialogSteadya0a3r":"(Continue)",
+		"candidateDialogSteadya0a4":"“The crew don't trust me the way they used to. When I told them that enough was enough, they used to listen. They stopped listening, so I started being more 'persuasive'. One or two punitive burns on the flux conduits later, and they're planning a mutiny.” ${officerLast} traces the grain of ${officerHis} synthwood desk, ${officerHis} untrimmed fingernail plowing through the dust and residue. ${officerLast} looks down at the finger and brushes it against ${officerHis} pant leg.",
+		"candidateDialogSteadya0a4r":"(Continue)",
+		"candidateDialogSteadya0a5":"+“Maybe they should've learned that I'm here to make sure your orders are followed so we can get rich and all that waste,” ${officerHe} grumbles. “Or maybe I'm just not the sort of leader they need me to be. I'm a resonance engineer by trade, not a politician. I can't play these petty games the way the younger officers can.”",
+		"candidateDialogSteadya0a5s1":"4Escalate further, let the crew know who's boss",
+		"candidateDialogSteadya0a5s2":"5De-escalate the situation by reprimanding ${officerLast}",
+		"candidateDialogSteadya0a5s3":"6-Host a town hall meeting with an armed security presence",
+		
+		"candidateDialogSteadya4a1":"=You encourage ${officerFirst} to start burning more prized parts of the body; if it isn't necessary for work and can't be harvested post-mortem, it's burnable. In addition, you set aside a small security contingent to make sure the “reprimands” go off without a hitch. ${officerFirst}'s eyes light up at the suggestion. “For a ${playerRank} who just started pulling weight in 206, you remind me of the ${playerRank}s I worked with back in the 170s. The sort of ${playerRank} not afraid of ruffling a few feathers to get vent-waste done.” ${officerFirst} goes back to drumming their fingers, but in a more self-assured way. “I like the way you run things, ${PlayerRank}; let me know if you need this favor repaid sometime.”",
+		
+		"candidateDialogSteadya5a1":"=You wordlessly pull out your Tri-Pad and transfer command of ${officerLast}'s ship to its first officer, then remind ${officerLast} of the importance of due process. ${officerLast}'s heart sinks before your eyes as ${officerHis} Tri-Pad lights up with the notification. A crestfallen look overtakes ${officerHim}. ${OfficerHe} averts eye contact and stares deep into ${officerHis} freighter mug, then gulps down the remainder. ${OfficerHe} let out a shuddering sigh from the strength of the stimulant and the weight of your admonition. “I see, ${PlayerRank}.” ${OfficerHis} hand shakes as ${officerHe} goes to refill ${officerHis} cup. As you turn, you glimpse the clear contents of a flask being emptied into the next murky beverage. You think it's best to leave.",
+		
+		"candidateDialogSteadya6a1":"You describe an ancient Earth tradition in which politicians would hear the complaints of the citizenry in a public forum, then pair it with an event more ancient tradition of using a show of force to let them know that you are watching. Later that day, you and the ${officerRank} sit at an elevated position in the mess hall, flanked by ship security from both ships. The more bold crewmen still air their concerns. They use phrases like “worker's rights” and words like “coercion”. You deftly deflect these claims for ${officerLast}, then let them reiterate the rules of the ship. You offer free passage to the nearest civilized colony for any dissenters. None take it; you pay too well.",
+		"candidateDialogSteadya6a1r":"(Continue)",
+		"candidateDialogSteadya6a2":"=You return to ${officer}'s ready room. ${OfficerHe} collapses into ${officerHis} rickety chair. “I remember you using words like that when you offered me a job here. Honeyed words, the lot of it. You remind me of some of the Hegemony admirals of my younger days. You'll certainly get the job done, but the politics are just...” ${officerLast} trails off with a looping hand gesture that implies a cycle as unending and as destructive as the accretion disk around a black hole. “Thank you, ${playerLast}. I'll sleep better knowing I'll wake up in the morning. I'll try to pay you back in the next battle we're both deployed in.”",
+		
+		
+	},
+}
